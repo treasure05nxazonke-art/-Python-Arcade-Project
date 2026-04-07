@@ -33,7 +33,7 @@ You can play each game **individually** or use the **Arcade mode** to switch bet
 - **Modules:**  
   - `random` → for computer moves  
   - `sys` → to exit games in standalone mode  
-     
+  - `enum` → for Rock Paper Scissors choices   
 
 - **Files:**  
   - `arcade.py` → Main menu and Arcade mode  
